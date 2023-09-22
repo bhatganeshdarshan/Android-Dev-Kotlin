@@ -1,4 +1,3 @@
-# Android-Dev-Kotlin
 
 # Number Count / Reset App Using Kotlin 
 
